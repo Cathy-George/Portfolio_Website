@@ -19,3 +19,9 @@ Stylistically, I made use of CSS Flexbox and Grid to create a well-balanced and 
 The Projects section highlights key technical projects I’ve built or contributed to, linking directly to their GitHub repositories or live demos. In addition, the Certificates and Workshops section reflects my commitment to continuous learning and self-improvement, listing verified achievements in areas like web development, design, and more. The Skills section uses icons and rating bars to visually represent my proficiency in various technologies, making it easier for visitors to get a quick sense of where my strengths lie.
 
 This project helped me improve not just my technical abilities but also my sense of design, accessibility, and content structure. By building my own website from scratch, I learned the importance of clear navigation, responsive design, and consistent branding. It also gave me hands-on experience in deploying a static website on platforms like GitHub Pages and handling basic SEO optimizations to ensure my site is discoverable. Overall, this portfolio website represents both my technical and creative identity online. It’s not only a showcase of what I’ve done but also a foundation that I can continue to expand and evolve as my journey in tech continues.
+
+#output
+![Image](https://github.com/user-attachments/assets/161afc24-4db2-4ba2-a0ca-9bf56efec701)
+![Image](https://github.com/user-attachments/assets/23ae2c5a-c945-4b4b-80b2-764deb3ce3b6)
+![Image](https://github.com/user-attachments/assets/129e0930-50ba-4fd7-8507-4fe0adc3f578)
+![Image](https://github.com/user-attachments/assets/ff145717-712f-47d3-a017-0a7b012a9586)
